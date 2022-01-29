@@ -1,0 +1,196 @@
+.cat_table{
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    background-color: white;
+    font-size: 20px;
+    border-spacing: 7px 5px;
+}
+
+.cat_table th{
+    border: 2px solid brown;
+    margin: 0px auto;
+    text-align: center;
+    font-size: 20px;
+}
+
+.cat_table td{
+    border: 2px solid black;
+    margin: 0px auto;
+    text-align: center;
+    font-size: 20px;
+}
+
+.join-title{
+    margin: 0px auto;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    color: darkblue;
+}
+
+.features{
+    margin: 0 auto;
+    width: 80%;
+}
+
+.ulink{
+    font-size: 20px;
+}
+
+.m-title{
+    margin-left: 120px;
+}
+
+.features{
+    margin: 0px auto;
+    width: 90%;
+}
+
+th{
+    text-align: center;
+}
+
+td{
+    text-align: center;
+}
+
+.depozit{
+    margin: 0px auto;
+}
+
+.del_title{
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.main_title{
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.del_m_cont{
+    margin: 0px auto;
+    width: 70%;
+    font-size: 20px;
+}
+
+.description_del{
+    text-align: justify;
+}
+
+.del_cat_cont{
+    margin: 0px auto;
+    width: 15%;
+    font-size: 20px;
+    align-content: center;
+}
+
+.edit_cat_cont{
+    margin: 0px auto;
+    width: 40%;
+    font-size: 20px;
+}
+
+.add_goods_container{
+    margin: 0px auto;
+    width: 40%;
+    font-size: 20px;
+}
+
+.pCtext{
+    line-height: 0.0;
+    margin-top: 40px;
+}
+
+.add_c_cont{
+    margin: 0px auto;
+    width: 40%;
+    font-size: 20px;
+}
+
+.add_user_cont{
+    margin: 0px auto;
+    width: 40%;
+    font-size: 20px;
+}
+
+.edit_user_cont{
+    margin: 0px auto;
+    width: 40%;
+    font-size: 20px;
+}
+
+.edit_user_cont input[type='text']{
+    width: 100%;
+}
+
+.del_user_cont{
+    margin: 0px auto;
+    width: 12%;
+    font-size: 20px;
+    align-content: center;
+}
+
+.del_fur_cont{
+    margin: 0px auto;
+    width: 17%;
+    font-size: 20px; 
+    align-content: center;
+}
+
+.add_fur_cont {
+    margin: 0px auto;
+    width: 40%;
+    font-size: 20px; 
+}
+
+.add_fur_cont input[type='text'], input[type='email'], input[type='tel']{
+    width: 100%;
+}
+
+.edit_fur_cont {
+    margin: 0px auto;
+    width: 40%;
+    font-size: 20px; 
+}
+
+.edit_fur_cont input[type='text'], input[type='email'], input[type='tel']{
+    width: 100%;
+}
+
+.add_d_cont {
+    margin: 0px auto;
+    width: 40%;
+    font-size: 20px; 
+}
+
+.add_d_cont input[type='text'], input[type='email'], input[type='tel']{
+    width: 100%;
+}
+
+.edit_d_cont{
+    margin: 0px auto;
+    width: 40%;
+    font-size: 20px; 
+    align-content: center;
+}
+
+.edit_d_cont input[type='text'], input[type='email'], input[type='tel']{
+     width: 100%;
+}
+
+.del_d_cont{
+    margin: 0px auto;
+    width: 20%;
+    font-size: 20px;
+    align-content: center;
+}
+
+#siteName{
+    text-align: left;
+    align-content: left;
+}

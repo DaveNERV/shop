@@ -1,0 +1,71 @@
+.order_table{
+    width: 98%;
+    margin: 0px auto;
+    border-spacing: 7px 5px;
+    border: 2px solid brown;
+    font-size: 20px;
+    padding: 1px;
+}
+
+.order_table th{
+    border: 2px solid brown;
+    padding: 1px;
+}
+
+.order_table td{
+    border: 2px solid black;
+    font-family: times new roman;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.title{
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 50px;
+    color: brown;
+    margin: 0px;
+	padding: 10px 0px 20px 0px;
+}
+
+.title-button{
+    margin-left: 15px;
+    margin-bottom: 7px;
+}
+
+.form_user{
+    width: 98%;
+    font-size: 20px;
+    margin: 0px auto;
+}
+
+.submit-btn{
+    font-size: 20px;
+    width: 99%;
+}
+
+.submit{
+    font-size: 20px;
+}
+
+#leave{
+    margin-left: 16px;
+}
+
+.title_form{
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 24px;
+    color: darkblue;
+}
+
+.mainText{
+    line-height: 0.0;
+    margin-top: 30px;
+}
+
+.description{
+    text-align: justify;
+}
+
+#to_main{
+    margin-left: 15px;
+}

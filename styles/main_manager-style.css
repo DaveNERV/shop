@@ -1,0 +1,82 @@
+.join-title{
+    margin: 0px auto;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    color: darkblue;
+}
+
+.features{
+    margin: 0 auto;
+    width: 80%;
+}
+
+.orders{
+   margin: 0 auto;
+}
+
+.link{
+    font-size: 20px;
+}
+
+/*------------------------------*/
+
+.mainText{
+    line-height: 0.5;
+}
+
+.chitanta-info{
+    margin: 0 auto;
+    width: 45%;
+}
+
+.chitanta-title{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#person{
+    color: green;
+}
+
+/*----------------------------------*/
+
+.del_cont{
+    margin: 0 auto;
+    width: 25%;
+}
+
+.del-title{
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: 0 auto;
+}
+
+/*-------------------------------------*/
+
+
+.clients_cont{
+    margin: 0 auto;
+    width: 80%;
+}
+
+
+/*--------------------------------------*/
+
+.users{
+    margin: 0 auto;
+    width: 60%;
+}
+
+.msg{
+    color: darkred;
+    line-height: 0.0;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+}

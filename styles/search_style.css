@@ -1,0 +1,31 @@
+.goods{
+    border: 6px solid black;
+    width: 98%;
+    margin: 0px auto;
+}
+
+.description{
+    font-size: 18px;
+    text-align: justify;
+    font-family: times new roman;
+}
+
+.click_image{
+    width: 200px;
+    border: 4px solid brown;
+}
+
+input[type=image]:hover{
+    opacity: 0.8;
+    border: 4px solid darkolivegreen;
+}
+
+.to_main{
+    margin-left: 20px;
+}
+
+.dispon{
+    color: brown;
+}
+
+

@@ -1,0 +1,313 @@
+body{
+	font-family: Arial,sans-serif;
+	color: #333333;
+	line-height: 1.166;	
+	margin: 0px;
+	padding: 0px;
+}
+
+.link {
+	color: whitesmoke;
+	text-decoration: none;
+    opacity: 0.8;
+    font-size: 16px;
+}
+
+.link:hover {
+	text-decoration: underline;
+    color: whitesmoke;
+    opacity: 1;
+}
+
+.link_main {
+	color: gold;
+	text-decoration: none;
+    opacity: 0.8;
+    font-size: 18px;
+}
+
+.link_main:hover {
+	text-decoration: underline;
+    color: gold;
+    opacity: 1;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Arial,sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+
+h1{
+ font-family: Verdana,Arial,sans-serif;
+ font-size: 120%;
+ color: brown;
+}
+
+h2{
+ font-size: 114%;
+ color: brown;
+}
+
+h3{
+ font-size: 100%;
+ color: #334d55;
+}
+
+h4{
+ font-size: 100%;
+ font-weight: normal;
+ color: #333333;
+}
+
+h5{
+ font-size: 100%;
+ color: #334d55;
+}
+
+ul{
+ list-style-type: square;
+}
+
+ul ul{
+ list-style-type: disc;
+}
+
+ul ul ul{
+ list-style-type: none;
+}
+
+.title-nav{
+ font: bold 100% Arial,sans-serif;
+ color: darkblue;
+    font-size: 20px;
+}
+				
+
+#masthead{
+	margin: 0;
+	padding: 10px 0px;
+	border-bottom: 1px solid #cccccc;
+	width: 100%;
+}
+
+#navBar{
+	margin: 0 79% 0 0;
+	padding: 0px;
+	background-color: #eeeeee;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+
+#content{
+  float:right;
+	width: 75%;
+	padding: 0 3% 0 0;
+    margin-left: -50px;
+}
+
+
+#siteName{
+	margin: 0px;
+	padding: 0px 0px 10px 10px;
+    color: brown;
+}
+
+
+
+#pageName{
+	padding: 0px 0px 10px 10px;
+    margin-left: -50px
+}
+
+
+
+#globalNav{
+    color: #cccccc;
+    padding: 0px 0px 0px 10px;
+    white-space: nowrap;
+}
+
+
+#globalNav img{
+ display: block;
+}
+
+#globalNav a {
+	font-size: 90%;
+	padding: 0px 4px 0px 0px; 
+}
+
+
+#breadCrumb{
+	font-size: 80%;
+	padding: 5px 0px 5px 10px;
+}
+
+
+.feature{
+	padding: 0px 0px 0px 0px;
+    margin-left: -50px;
+}
+
+.feature h3{
+	padding: 30px 0px 5px 0px;
+	text-align: center;;
+}
+
+.feature img{
+	float: left;
+	padding: 0px 10px 0px 0px;
+	margin: 0 5px 5px 0;
+}
+
+.story{
+	clear: both;
+	padding: 10px 0px 0px 10px;
+	font-size: 80%;
+}
+
+.story p{
+	padding: 0px 0px 10px 0px;
+}
+
+#siteInfo{
+	clear: both;
+	border: 1px solid #cccccc;
+	font-size: 75%;
+	color: #cccccc;
+	padding: 10px 10px 10px 10px;
+	margin-top: 0px;
+}
+
+#siteInfo img{
+	padding: 4px 4px 4px 0px;
+	vertical-align: middle;
+}
+
+
+#search{
+	padding: 5px 0px 5px 10px;
+	border-bottom: 1px solid #cccccc;
+	font-size: 90%;
+}
+
+#search form{
+ margin: 0px;
+ padding: 0px;
+}
+
+#search label{
+	display: block;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+#navBar ul a:link, #navBar ul a:visited {display: block;}
+#navBar ul {list-style: none; margin: 0; padding: 0;}
+
+#navBar li {border-bottom: 1px solid #cccccc;}
+
+html>body #navBar li {border-bottom: none;}
+
+#sectionLinks{
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+	border-bottom: 1px solid #cccccc;
+	font-size: 90%;
+}
+
+#navBar{
+    background-color: indianred;
+}
+
+#sectionLinks h3{
+	padding: 10px 0px 2px 10px;
+}
+
+#sectionLinks a:link{
+	padding: 2px 0px 2px 10px;
+	border-top: 1px solid #cccccc;
+	width: 100%;
+  voice-family: "\"}\""; 
+  voice-family:inherit;
+	width: auto;
+}
+
+#sectionLinks a:visited{
+	border-top: 1px solid #cccccc;
+	padding: 2px 0px 2px 10px;
+}
+
+#sectionLinks a:hover{
+	border-top: 1px solid #cccccc;
+	background-color: #dddddd;
+	padding: 2px 0px 2px 10px;
+}
+
+
+.relatedLinks{
+	margin: 0px;
+	padding: 0px 0px 10px 10px;
+	font-size: 90%;
+    
+}
+
+.relatedLinks h3{
+	padding: 10px 0px 2px 0px;
+}
+
+
+#advert{
+	padding: 10px 0px 0px 10px;
+	font-size: 80%;
+	border-top: 1px solid #cccccc;
+}
+
+#advert img{
+	display: block;
+}
+
+
+
+#headlines{
+	margin: 0px;
+	padding: 10px 0px 20px 10px;
+	font-size: 80%;
+}
+
+#headlines p{
+	padding: 5px 0px 5px 0px;
+}
+
+.btn btn-success{
+    height:20px;
+    width:20px;
+    color: white;
+}
+
+.info-text{
+    font-size: 25px;
+    font-family: Times new roman;
+}
+
+.goods_main{
+    margin-left: -50px;
+}
+
+.container_forms{
+    margin-left: -50px;
+    margin-right: -20px;
+}
+
+.description{
+    font-size: 18px;
+    text-align: justify;
+    font-family: times new roman;
+}
+
+.dispon{
+    color: brown;
+}

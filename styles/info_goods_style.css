@@ -1,0 +1,61 @@
+.title_info{
+    display: block;
+    margin: 0 auto;
+    font-size: 40px;
+    text-align: center;
+    color: darkblue;
+}
+
+.this_info_good{
+    width: 70%;
+    font-size: 20px;
+    margin-left: 0;
+    text-align: justify;
+    border: 2px solid brown; 
+    font-family: times new roman;
+}
+
+.photo_goods{
+    width: 300px;
+    height: 100%;
+}
+
+.container_info{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.caracteristics_table{
+    width: 55%;
+    margin: 0px auto;
+    text-align: center;
+    border-spacing: 7px 5px;
+    border: 2px solid brown;
+    font-size: 20px;
+}
+
+.caracteristics_table .den{
+    border: 2px solid brown;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.caracteristics_table .val{
+    border: 2px solid black;
+    margin: 0px auto;
+    text-align: center;
+    font-family: times new roman;
+}
+
+.buy{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.to_main{
+    text-align: center;
+    margin: 0 auto;
+}
